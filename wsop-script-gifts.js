@@ -2,9 +2,14 @@
 // @id           wsop-script-gifts@pida42
 // @name         WSOP Script Gifts
 // @description  WSOP Script gifts colllector
-// @namespace    https://github.com/pida42/wsop-script-gifts/raw/master/wsop-script-gifts.js
-// @version      1.0.0
+// @namespace    https://github.com/pida42/wsop-script-gifts
+// @homepageURL  http://github.com/pida42/gamehunters-auto-collect
+// @updateURL    https://raw.githubusercontent.com/pida42/wsop-script-gifts/main/wsop-script-gifts.js
+// @version      1.0.1
+// @license      MIT
 // @author       pida42
+// @copyright    2020, pida42 (https://openuserjs.org/users/pida42)
+// @icon         https://i.imgur.com/e7AOcvs.png
 // @include      http://apps.facebook.com/poker_wsop/*
 // @include      https://apps.facebook.com/poker_wsop/*
 // @include      http://playwsop.com/*
