@@ -3,9 +3,9 @@
 // @name         WSOP Script Gifts
 // @description  WSOP Script gifts colllector
 // @namespace    https://github.com/pida42/wsop-script-gifts
-// @homepageURL  http://github.com/pida42/gamehunters-auto-collect
+// @homepageURL  https://github.com/pida42/wsop-script-gifts
 // @updateURL    https://raw.githubusercontent.com/pida42/wsop-script-gifts/main/wsop-script-gifts.js
-// @version      1.0.1
+// @version      1.0.2
 // @license      MIT
 // @author       pida42
 // @copyright    2020, pida42 (https://openuserjs.org/users/pida42)
